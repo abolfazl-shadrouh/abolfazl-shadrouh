@@ -1,11 +1,19 @@
+// ===========================
+// TOGGLE LANGUAGE MENU
+// ===========================
 function toggleLangMenu() {
-  document.getElementById('lang-menu').classList.toggle('show');
+  document.getElementById('lang-menu')?.classList.toggle('show');
 }
+
 window.addEventListener('click', function(e) {
   if (!e.target.closest('.language-dropdown')) {
     document.getElementById('lang-menu')?.classList.remove('show');
   }
 });
+
+// ===========================
+// TOGGLE HAMBURGER MENU
+// ===========================
 function toggleMenu() {
   const menu = document.querySelector(".menu-links");
   const icon = document.querySelector(".hamburger-icon");
@@ -13,7 +21,9 @@ function toggleMenu() {
   icon.classList.toggle("open");
 }
 
-
+// ===========================
+// TRANSLATIONS
+// ===========================
 const translations = {
   en: {
     intro_p1: "Hello, I'm",
@@ -82,7 +92,7 @@ const translations = {
     project_1: "پروژه اول",
     project_2: "پروژه دوم",
     project_3: "پروژه سوم",
-  },
+  }
 };
 
 function setLanguage(lang) {
@@ -133,7 +143,7 @@ function applyLanguage(lang) {
     "project-3": t.project_3
   };
 
-  for (let id in map) {
+for (let id in map) {
     const el = document.getElementById(id);
     if (el) el.textContent = map[id];
   }
@@ -147,132 +157,32 @@ document.addEventListener("DOMContentLoaded", () => {
   applyLanguage(savedLang);
 });
 
+// ===========================
+// REVEAL ON SCROLL
+// ===========================
+function revealElements() {
+  const reveals = document.querySelectorAll(".reveal");
+  const windowHeight = window.innerHeight;
+  const elementVisible = 100;
 
-  function reveal() {
-    const aboutSection = document.querySelector(".reveal");
-    const windowHeight = window.innerHeight;
-    const elementTop = aboutSection.getBoundingClientRect().top;
-    const elementVisible = 150;
-
+  reveals.forEach(el => {
+    const elementTop = el.getBoundingClientRect().top;
     if (elementTop < windowHeight - elementVisible) {
-      aboutSection.classList.add("active");
-    } else {
-      aboutSection.classList.remove("active");
+      el.classList.add("active");
     }
-  }
+  });
+}
 
-  window.addEventListener("scroll", reveal);
-  // برای مواقعی که صفحه از بالا لود شده
-  reveal();
+window.addEventListener("scroll", revealElements);
+document.addEventListener("DOMContentLoaded", revealElements);
 
-
-  function reveal() {
-    const elements = document.querySelectorAll(".reveal");
-    elements.forEach(el => {
-      const windowHeight = window.innerHeight;
-      const elementTop = el.getBoundingClientRect().top;
-      const elementVisible = 100;
-
-      if (elementTop < windowHeight - elementVisible) {
-        el.classList.add("active");
-      }
-    });
-  }
-
-  window.addEventListener("scroll", reveal);
-  reveal();
-
-
-  function reveal() {
-    const elements = document.querySelectorAll(".reveal");
-    elements.forEach(el => {
-      const windowHeight = window.innerHeight;
-      const elementTop = el.getBoundingClientRect().top;
-      const elementVisible = 100;
-
-      if (elementTop < windowHeight - elementVisible) {
-        el.classList.add("active");
-      }
-    });
-  }
-
-  window.addEventListener("scroll", reveal);
-  reveal(); // اجرا در بارگذاری اولیه
-
-  
-  function reveal() {
-    const reveals = document.querySelectorAll(".reveal");
-    reveals.forEach(el => {
-      const windowHeight = window.innerHeight;
-      const elementTop = el.getBoundingClientRect().top;
-      const elementVisible = 100;
-
-      if (elementTop < windowHeight - elementVisible) {
-        el.classList.add("active");
-      }
-    });
-  }
-
-  window.addEventListener("scroll", reveal);
-  reveal(); // اجرا روی لود اولیه
-
-  
-  function reveal() {
-    const reveals = document.querySelectorAll(".reveal");
-    reveals.forEach(el => {
-      const windowHeight = window.innerHeight;
-      const elementTop = el.getBoundingClientRect().top;
-      const elementVisible = 100;
-
-      if (elementTop < windowHeight - elementVisible) {
-        el.classList.add("active");
-      }
-    });
-  }
-
-  window.addEventListener("scroll", reveal);
-  reveal(); // اجرا در بارگذاری اولیه
-
-  
-  function reveal() {
-    const reveals = document.querySelectorAll(".reveal");
-    reveals.forEach(el => {
-      const windowHeight = window.innerHeight;
-      const elementTop = el.getBoundingClientRect().top;
-      const elementVisible = 100;
-
-      if (elementTop < windowHeight - elementVisible) {
-        el.classList.add("active");
-      }
-    });
-  }
-
-  window.addEventListener("scroll", reveal);
-  reveal(); // اجرا در بارگذاری اولیه
-
-  
-  function reveal() {
-    const reveals = document.querySelectorAll(".reveal");
-    reveals.forEach(el => {
-      const windowHeight = window.innerHeight;
-      const elementTop = el.getBoundingClientRect().top;
-      const elementVisible = 100;
-
-      if (elementTop < windowHeight - elementVisible) {
-        el.classList.add("active");
-      }
-    });
-  }
-
-  window.addEventListener("scroll", reveal);
-  reveal(); // اجرا در بارگذاری اولیه
-
-  window.onload = function() {
+// ===========================
+// FOOTER ANIMATION
+// ===========================
+window.addEventListener("load", () => {
   const footerText = document.getElementById('footer-en');
-  footerText.style.opacity = '1';  // تغییر به حالت دیده شده
-  footerText.style.transform = 'translateY(0)';  // به موقعیت اولیه منتقل می‌شود
-};
-
-
-
-
+  if (footerText) {
+    footerText.style.opacity = '1';
+    footerText.style.transform = 'translateY(0)';
+  }
+});
