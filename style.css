@@ -301,7 +301,7 @@ section {
 
 .experience-sub-title {
   color: rgb(85, 85, 85);
-  font-weight: 600;
+  font-weight: 400;
   font-size: 1.75rem;
   margin-bottom: 2rem;
 }
@@ -531,3 +531,13 @@ footer p {
 #hamburger-nav .menu-links li:nth-child(4) { animation-delay: 0.4s; }
 #desktop-nav .nav-items li:nth-child(5),
 #hamburger-nav .menu-links li:nth-child(5) { animation-delay: 0.5s; }
+
+::selection {
+  background: #999999;
+  color: black;
+}
+
+::-moz-selection { 
+  background: #999999;
+  color: black;
+}
