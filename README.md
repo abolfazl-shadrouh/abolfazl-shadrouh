@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7AB0A&width=435&lines=Hello+World!;I+Love+Coding!;Welcome+to+My+GitHub" />
-</p>
 <h1 align="center">Hi 👋, I'm Abolfazl Shadrouh</h1>
 <h3 align="center">💻 Full-Stack Developer | 🎨 Creative Designer | 🤖 AI Enthusiast</h3>
 
@@ -75,3 +72,7 @@ Exploring face recognition, intelligent systems, and distributed databases.
 ✨ “I usually choose the hardest path… because that’s where the growth happens.”  
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
