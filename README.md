@@ -73,6 +73,5 @@ Exploring face recognition, intelligent systems, and distributed databases.
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### My Scratch Game 🎮
+<3
 ![Scratch Game](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
-A 2D chase game where the player collects coins and avoids the police.
