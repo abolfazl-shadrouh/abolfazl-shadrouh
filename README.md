@@ -76,7 +76,7 @@
 
 ## 📂 Featured Projects
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="350" />
+  <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="350"/>
 </p>
 
 ### ☕🍽️ Cafe-menu
@@ -122,7 +122,5 @@ Smart, fast, and easy-to-use calculator – perform basic and advanced calculati
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="350"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="500"/>
 </p>
-
-
