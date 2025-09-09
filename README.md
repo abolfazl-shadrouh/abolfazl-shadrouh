@@ -79,17 +79,17 @@
   <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="350" />
 </p>
 
-### 🛍️ Online Store - **Zomorod**
-A complete online store with advanced features, supporting multiple languages.  
-🔗 [View Repository](#)
+### ☕🍽️ Cafe-menu
+☕🍽️ Welcome to Cafe/Restaurant online! Explore our menu, make reservations, order online, and discover our cozy ambiance—all in one sleek and user-friendly website. 
+🔗 [View Repository](https://github.com/abolfazl-shadrouh/cafe-menu)
 
-### 🍽️ Cafe Menu Website
-A modern static website with sections: menu, table reservation, online ordering, and contact page.  
-🔗 [View Repository](#)
+### 📝💻 Cooperation
+Submit your requests online effortlessly! Our user-friendly web platform lets you fill out forms, track submissions, and manage requests efficiently.  
+🔗 [View Repository](https://github.com/abolfazl-shadrouh/Cooperation)
 
-### 🤖 AI Projects
-Face recognition, intelligent systems, and distributed databases.  
-🔗 [View Repository](#)
+### 🧮 Calculator
+Smart, fast, and easy-to-use calculator – perform basic and advanced calculations directly in your browser. 
+🔗 [View Repository](https://github.com/abolfazl-shadrouh/Calculator)
 
 ---
 
@@ -110,7 +110,7 @@ Face recognition, intelligent systems, and distributed databases.
 <p align="center">
   <a href="mailto:abolfazlshadrooh212@gmail.com">📧 Email</a> |
   <a href="tel:+989388591515">📱 Phone</a> |
-  <a href="#">💼 LinkedIn</a> |
+  <a href="instagram.com/abolfazl_shadrouh">💼 Instagram</a> |
   <a href="https://abolfazl-shadrouh.netlify.app">🌍 Website</a>
 </p>
 
