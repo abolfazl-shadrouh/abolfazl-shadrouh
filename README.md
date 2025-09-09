@@ -127,6 +127,7 @@ Smart, fast, and easy-to-use calculator – perform basic and advanced calculati
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300"/>
 </p>
 
+
 ---
 
 ## ⚡ Fun Fact
