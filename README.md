@@ -124,7 +124,7 @@ Smart, fast, and easy-to-use calculator – perform basic and advanced calculati
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=5000&color=00FFFF&width=200&lines=%E2%AC%86+Click+Here+to+Contact" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=400&color=00FFFF&width=200&lines=%E2%AC%86+Click+Here" />
 </p>
 
 ---
