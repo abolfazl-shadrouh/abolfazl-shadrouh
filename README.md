@@ -123,8 +123,9 @@ Smart, fast, and easy-to-use calculator – perform basic and advanced calculati
   </a>
 </p>
 
-[![Contact](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)]
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=500&color=00FFFF&width=200&lines=%E2%AC%86+Click+Here+to+Contact" />
+</p>
 
 ---
 
