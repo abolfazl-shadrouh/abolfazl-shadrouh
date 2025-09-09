@@ -74,3 +74,5 @@ Exploring face recognition, intelligent systems, and distributed databases.
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ![Coding GIF](https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif)
+
+<img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="400"/>
