@@ -75,9 +75,6 @@
 ---
 
 ## 📂 Featured Projects
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsY2OWGxX1iM4i0/giphy.gif" width="300"/>
-</p>
 
 ### ☕🍽️ Cafe-menu
 ☕🍽️ Welcome to Cafe/Restaurant online! Explore our menu, make reservations, order online, and discover our cozy ambiance—all in one sleek and user-friendly website. 
