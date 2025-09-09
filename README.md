@@ -122,6 +122,7 @@ Smart, fast, and easy-to-use calculator – perform basic and advanced calculati
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="500"/>
+  <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="350"/>
 </p>
+
 
