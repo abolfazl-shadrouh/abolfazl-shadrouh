@@ -109,7 +109,7 @@ Smart, fast, and easy-to-use calculator – perform basic and advanced calculati
 ## 🌐 Connect With Me
 <p align="center">
   <a href="mailto:abolfazlshadrooh212@gmail.com">📧 Email</a> |
-  <a href="tel:+989388591515">📱 Phone</a> |
+  <a href="tel:09388591515">📱 Phone</a> |
   <a href="instagram.com/abolfazl_shadrouh">💼 Instagram</a> |
   <a href="https://abolfazl-shadrouh.netlify.app">🌍 Website</a>
 </p>
