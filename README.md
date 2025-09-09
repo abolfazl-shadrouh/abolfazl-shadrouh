@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full-Stack Developer | 🎨 Creative Designer | 🤖 AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/3o6ZsY2OWGxX1iM4i0/giphy.gif" width="300"/>
 </p>
 
 ---
