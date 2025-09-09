@@ -108,17 +108,25 @@ Smart, fast, and easy-to-use calculator – perform basic and advanced calculati
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="mailto:abolfazlshadrooh212@gmail.com">📧 Email</a> |
-<p align="center">
-  <a href="https://t.me/YourTelegramUsername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="40" height="40"/>
+  <a href="mailto:abolfazlshadrooh212@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=292D3E" alt="Email"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
+  <a href="https://t.me/YourTelegramUsername" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=292D3E" alt="Telegram"/>
+  </a>
+  &nbsp;
   <a href="https://instagram.com/YourInstagramUsername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=292D3E" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="https://abolfazl-shadrouh.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=292D3E" alt="Website"/>
   </a>
 </p>
-  <a href="https://abolfazl-shadrouh.netlify.app">🌍 Website</a>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKP0jFqQG6k8Akw/giphy.gif" width="250"/>
 </p>
 
 ---
