@@ -123,9 +123,68 @@ Smart, fast, and easy-to-use calculator – perform basic and advanced calculati
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKP0jFqQG6k8Akw/giphy.gif" width="250"/>
-</p>
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>فلش متحرک</title>
+<style>
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #1a1a1a;
+    font-family: sans-serif;
+  }
+
+  .flash-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+  }
+
+  .arrow {
+    font-size: 50px;
+    color: #00ffff;
+    animation: bounce 1s infinite;
+  }
+
+  @keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+      transform: translateY(0);
+    }
+    40% {
+      transform: translateY(-20px);
+    }
+    60% {
+      transform: translateY(-10px);
+    }
+  }
+
+  .text {
+    margin-top: 10px;
+    font-size: 20px;
+    color: #ffffff;
+    animation: glow 1.5s infinite alternate;
+  }
+
+  @keyframes glow {
+    from { text-shadow: 0 0 5px #00ffff; }
+    to { text-shadow: 0 0 20px #00ffff; }
+  }
+</style>
+</head>
+<body>
+  <div class="flash-container" onclick="window.location.href='mailto:youremail@example.com'">
+    <div class="arrow">⬆</div>
+    <div class="text">برای ارتباط کلیک کنید</div>
+  </div>
+</body>
+</html>
+
 
 ---
 
