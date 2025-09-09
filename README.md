@@ -112,11 +112,11 @@ Smart, fast, and easy-to-use calculator – perform basic and advanced calculati
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=292D3E" alt="Email"/>
   </a>
   &nbsp;
-  <a href="https://t.me/YourTelegramUsername" target="_blank">
+  <a href="[https://t.me/YourTelegramUsername](https://t.me/abo_l_fa_zl_sh)" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=292D3E" alt="Telegram"/>
   </a>
   &nbsp;
-  <a href="https://instagram.com/YourInstagramUsername" target="_blank">
+  <a href="[https://instagram.com/YourInstagramUsername](https://www.instagram.com/abolfazl_shadrouh)" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=292D3E" alt="Instagram"/>
   </a>
   &nbsp;
