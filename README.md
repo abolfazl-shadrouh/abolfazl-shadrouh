@@ -7,7 +7,7 @@
 
 ---
 
-<p align="center">
+<p align="center" margin-left="20px">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7AB0A&width=600&lines=Hello+World!;I'm+Abolfazl+Shadrouh;Full-Stack+Developer+%26+AI+Enthusiast" />
 </p>
 
