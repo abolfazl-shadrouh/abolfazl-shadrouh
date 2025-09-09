@@ -123,9 +123,7 @@ Smart, fast, and easy-to-use calculator – perform basic and advanced calculati
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300"/>
-</p>
+[![Contact](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)]
 
 
 ---
