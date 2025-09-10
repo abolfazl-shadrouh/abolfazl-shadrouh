@@ -73,7 +73,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7AB0A&width=300&lines=I'm+Abolfazl+Shadrouh;Full-Stack+Developer+%26+AI+Enthusiast" />
 </p>
+
 ---
+
 ## 📂 Featured Projects
 
 ### ☕🍽️ Cafe-menu
