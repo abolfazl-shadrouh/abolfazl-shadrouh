@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abolfazl Shadrouh</h1>
 <h3 align="center">💻 Full-Stack Developer | 🎨 Creative Designer | 🤖 AI Enthusiast</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7AB0A&width=300&lines=I'm+Abolfazl+Shadrouh;Full-Stack+Developer+%26+AI+Enthusiast" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -74,7 +64,16 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300"/>
+</p>
 
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7AB0A&width=300&lines=I'm+Abolfazl+Shadrouh;Full-Stack+Developer+%26+AI+Enthusiast" />
+</p>
+---
 ## 📂 Featured Projects
 
 ### ☕🍽️ Cafe-menu
