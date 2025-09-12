@@ -107,7 +107,9 @@ Smart, fast, and easy-to-use calculator – perform basic and advanced calculati
 ---
 
 📊 GitHub Stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abolfazl-shadrouh&show_icons=true&theme=tokyonight" alt="stats" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abolfazl-shadrouh&layout=compact&theme=tokyonight" alt="langs" width="48%" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=abolfazl-shadrouh&theme=tokyonight&hide_border=true" alt="streak" width="48%" /> <img src="https://github-profile-trophy.vercel.app/?username=abolfazl-shadrouh&theme=tokyonight&row=1&column=4" width="48%" /> </p> 
+
 ---
+
 ## 🌐 Connect With Me <p align="center"> <a href="mailto:abolfazlshadrooh212@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=292D3E" alt="Email"/> </a> &nbsp; <a href="[https://t.me/YourTelegramUsername](https://t.me/abo_l_fa_zl_sh)" target="_blank"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=292D3E" alt="Telegram"/> </a> &nbsp; <a href="[https://instagram.com/YourInstagramUsername](https://www.instagram.com/abolfazl_shadrouh)" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=292D3E" alt="Instagram"/> </a> &nbsp; <a href="https://abolfazl-shadrouh.netlify.app" target="_blank"> <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=292D3E" alt="Website"/> </a> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=400&color=00FFFF&width=200&lines=%E2%AC%86+Click+Here" />
 </p>
 
