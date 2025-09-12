@@ -34,7 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="50" alt="Swift"/>
 </p>
 
----
 
 ## ⚛️ Front-End Frameworks & Libraries
 
@@ -46,7 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50" alt="jQuery"/>
 </p>
 
----
 
 ## ⚙️ Back-End Frameworks & Tools
 
@@ -58,7 +56,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Spring"/>
 </p>
 
----
 
 ## 🗄️ Databases
 
@@ -70,7 +67,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" alt="SQLite"/>
 </p>
 
----
 
 ## 🛠️ Tools & Platforms
 
