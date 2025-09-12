@@ -1,7 +1,4 @@
-<h1 align="center">Hi <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FFFFFF&width=200&lines=👋+Hello+World!+Welcome" alt="Wave Hand Typing"/>
-</p>
-, I'm Abolfazl Shadrouh</h1>
+<h1 align="center">Hi 👋, I'm Abolfazl Shadrouh</h1>
 <h3 align="center">💻 Full-Stack Developer | 🎨 Creative Designer | 🤖 AI Enthusiast</h3>
 
 ---
