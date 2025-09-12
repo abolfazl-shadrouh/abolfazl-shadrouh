@@ -12,8 +12,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
 ## 💻 Languages
 
 <p align="center">
