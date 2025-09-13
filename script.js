@@ -214,6 +214,6 @@ document.addEventListener("DOMContentLoaded", ()=> {
 window.addEventListener("load", function() {
   const overlay = document.getElementById("loading-overlay");
   overlay.style.opacity = '0';
-  overlay.style.transition = 'opacity 1.0s ease';
-  setTimeout(() => overlay.style.display = 'none', 500);
+  overlay.style.transition = 'opacity 2.0s ease';
+  setTimeout(() => overlay.style.display = 'none', 1000);
 });
