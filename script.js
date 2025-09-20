@@ -74,7 +74,7 @@ const translations = {
     projects_p1: "پروژه‌های اخیر من",
     contact_title: "ارتباط با من",
     contact_p1: "در تماس باشید",
-    footer_en: ".کلیه حقوق این وب‌سایت برای ابوالفضل شادروح محفوظ است",
+    footer_en: ".کلیه حقوق این وب‌سایت محفوظ است",
     about_en: "درباره",
     about_fa: "درباره",
     about_fa_m: "درباره",
