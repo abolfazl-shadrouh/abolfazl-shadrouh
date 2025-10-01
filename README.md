@@ -94,18 +94,22 @@
 
 ### 🌿 Green Leaf
 🌱 Welcome to Green Leaf, where you can find a wide variety of indoor plants, decorative flowers, and plant care accessories. Bring nature into your home and enjoy a fresh, green, and calming space.💚
+
 🔗 [View Repository](https://github.com/abolfazl-shadrouh/Green-Leaf)
 
 ### ☕🍽️ Cafe menu
 ☕🍽️ Welcome to Cafe/Restaurant online! Explore our menu, make reservations, order online, and discover our cozy ambiance—all in one sleek and user-friendly website. 
+
 🔗 [View Repository](https://github.com/abolfazl-shadrouh/cafe-menu)
 
 ### 🐍 ClassicSnake
 Navigate your snake, collect food 🍎, and avoid crashing! Built with HTML, CSS, and JavaScript 🎮. Enjoy retro arcade fun directly in your browser! 🕹️
+
 🔗 [View Repository](https://github.com/abolfazl-shadrouh/Snake-Challenge)
 
 ### 🚀 Stellar Assault: Space Shooter
 Take control of your spaceship and battle relentless waves of enemies in this fast-paced, action-packed space shooter! Dodge, shoot, and survive to achieve the highest score in the galaxy.
+
 🔗 [View Repository](https://github.com/abolfazl-shadrouh/Space-Shooter)
 
 ---
