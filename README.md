@@ -88,34 +88,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7AB0A&width=300&lines=I'm+Abolfazl+Shadrouh;Full-Stack+Developer+%26+AI+Enthusiast" />
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=abolfazl-shadrouh&color=blue)  
-![GitHub followers](https://img.shields.io/github/followers/abolfazl-shadrouh?style=social)  
-![GitHub stars](https://img.shields.io/github/stars/abolfazl-shadrouh?affiliations=OWNER%2CCOLLABORATOR&style=social)
-
----
-
-### 📊 GitHub Stats
-![Abolfazl's GitHub stats](https://github-readme-stats.vercel.app/api?username=abolfazl-shadrouh&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abolfazl-shadrouh&layout=compact&theme=radical)
-
----
-
-### 🚀 Some Open-source Projects
-| Projects | ⭐ Stars | 🍴 Forks | 🐞 Issues | 🔃 Pull requests |
-|----------|---------|----------|-----------|-----------------|
-| [project-1](https://github.com/abolfazl-shadrouh/project-1) | ![Stars](https://img.shields.io/github/stars/abolfazl-shadrouh/project-1?style=flat) | ![Forks](https://img.shields.io/github/forks/abolfazl-shadrouh/project-1?style=flat) | ![Issues](https://img.shields.io/github/issues/abolfazl-shadrouh/project-1?style=flat) | ![PRs](https://img.shields.io/github/issues-pr/abolfazl-shadrouh/project-1?style=flat) |
-| [project-2](https://github.com/abolfazl-shadrouh/project-2) | ![Stars](https://img.shields.io/github/stars/abolfazl-shadrouh/project-2?style=flat) | ![Forks](https://img.shields.io/github/forks/abolfazl-shadrouh/project-2?style=flat) | ![Issues](https://img.shields.io/github/issues/abolfazl-shadrouh/project-2?style=flat) | ![PRs](https://img.shields.io/github/issues-pr/abolfazl-shadrouh/project-2?style=flat) |
-
 ---
 
 ### 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abolfazl-shadrouh&theme=react-dark)
-
----
-
-### ⏰ Commits (UTC+8)
-![GitHub metrics](https://metrics.lecoq.io/abolfazl-shadrouh?template=classic&languages=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories)
-
 
 ---
 
