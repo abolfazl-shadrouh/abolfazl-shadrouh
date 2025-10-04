@@ -1,96 +1,168 @@
-<div align="center">
-
-  <!-- Header Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=00FFFF&center=true&width=500&lines=%F0%9F%94%A5+Hi,+I'm+Abolfazl+Shadrouh;Full-Stack+Developer+%26+AI+Enthusiast" alt="Typing Animation"/>
-
-  <p align="center" style="font-size:1.2em; color:#FF69B4;">
-    💻 Full-Stack Developer | 🎨 Creative Designer | 🤖 AI Enthusiast
-  </p>
-
-  <!-- Tech Badges -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </p>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  </p>
-
-</div>
+<h1 align="center">Hi 👋, I'm Abolfazl Shadrouh</h1>
+<h3 align="center">💻 Full-Stack Developer | 🎨 Creative Designer | 🤖 AI Enthusiast</h3>
 
 ---
 
-## 🌟 About Me
+## 🚀 About Me
 - 👨‍💻 18 years old, passionate about **Web Development & AI**  
+- 🎯 Skilled in both **Front-End & Back-End**  
+- 📚 Certificates: **Front-End Developer (Meta)** & **AI (HP)**  
 - 🌍 Based in **Rasht, Iran**  
-- 🎯 Skilled in **Front-End & Back-End**  
-- 📚 Certificates: **Meta Front-End Developer**, **HP AI Certificate**  
-- ✨ Always learning, building, and exploring new technologies  
+- ✨ Always eager to learn new technologies and take on challenges  
 
 ---
 
-## 🛠️ Skills & Tools
+## 💻 Languages
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/github--v1.png" width="40" alt="GitHub"/> Git & GitHub
-  <img src="https://img.icons8.com/color/48/000000/docker.png" width="40" alt="Docker"/> Docker
-  <img src="https://img.icons8.com/color/48/000000/linux.png" width="40" alt="Linux"/> Linux
-  <img src="https://img.icons8.com/color/48/000000/visual-studio.png" width="40" alt="VS Code"/> VS Code
-  <img src="https://img.icons8.com/color/48/000000/figma.png" width="40" alt="Figma"/> Figma
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="50" alt="Ruby"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="Go"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="50" alt="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="50" alt="Swift"/>
+</p>
+
+
+## ⚛️ Front-End Frameworks & Libraries
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="Vue.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50" alt="jQuery"/>
+</p>
+
+
+## ⚙️ Back-End Frameworks & Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50" alt="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Spring"/>
+</p>
+
+
+## 🗄️ Databases
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="Redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" alt="SQLite"/>
+</p>
+
+
+## 🛠️ Tools & Platforms
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="50" alt="Nginx"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" alt="VS Code"/>
+</p>
+
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300"/>
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7AB0A&width=300&lines=I'm+Abolfazl+Shadrouh;Full-Stack+Developer+%26+AI+Enthusiast" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+### 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abolfazl-shadrouh&theme=react-dark)
+
+---
+
+## 📂 Featured Projects
 
 ### 🌿 Green Leaf
-Bring nature indoors with **plants & accessories**.  
-🔗 [Repository](https://github.com/abolfazl-shadrouh/Green-Leaf)
+🌱 Welcome to Green Leaf, where you can find a wide variety of indoor plants, decorative flowers, and plant care accessories. Bring nature into your home and enjoy a fresh, green, and calming space.💚
 
-### ☕ Cafe Menu
-**Online menu, reservations, orders** for cafes/restaurants.  
-🔗 [Repository](https://github.com/abolfazl-shadrouh/cafe-menu)
+🔗 [View Repository](https://github.com/abolfazl-shadrouh/Green-Leaf)
 
-### 🐍 Classic Snake
-Retro **snake game** in browser with JS & CSS.  
-🔗 [Repository](https://github.com/abolfazl-shadrouh/Snake-Challenge)
+### ☕🍽️ Cafe menu
+☕🍽️ Welcome to Cafe/Restaurant online! Explore our menu, make reservations, order online, and discover our cozy ambiance—all in one sleek and user-friendly website. 
 
-### 🚀 Stellar Assault
-**Space shooter game** built with JS. Fast-paced and fun!  
-🔗 [Repository](https://github.com/abolfazl-shadrouh/Space-Shooter)
+🔗 [View Repository](https://github.com/abolfazl-shadrouh/cafe-menu)
+
+### 🐍 ClassicSnake
+Navigate your snake, collect food 🍎, and avoid crashing! Built with HTML, CSS, and JavaScript 🎮. Enjoy retro arcade fun directly in your browser! 🕹️
+
+🔗 [View Repository](https://github.com/abolfazl-shadrouh/Snake-Challenge)
+
+### 🚀 Stellar Assault: Space Shooter
+Take control of your spaceship and battle relentless waves of enemies in this fast-paced, action-packed space shooter! Dodge, shoot, and survive to achieve the highest score in the galaxy.
+
+🔗 [View Repository](https://github.com/abolfazl-shadrouh/Space-Shooter)
 
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abolfazl-shadrouh&show_icons=true&theme=tokyonight" alt="stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abolfazl-shadrouh&layout=compact&theme=tokyonight" alt="langs" width="48%" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abolfazl-shadrouh&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abolfazl-shadrouh&layout=compact&theme=radical" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=abolfazl-shadrouh&theme=tokyonight&hide_border=true" alt="streak" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abolfazl-shadrouh&theme=tokyonight&row=1&column=4" width="48%" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="mailto:abolfazlshadrooh212@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:abolfazlshadrooh212@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=292D3E" alt="Email"/>
   </a>
-  <a href="https://t.me/abo_l_fa_zl_sh">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  &nbsp;
+  <a href="[https://t.me/YourTelegramUsername](https://t.me/abo_l_fa_zl_sh)" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=292D3E" alt="Telegram"/>
   </a>
-  <a href="https://www.instagram.com/abolfazl_shadrouh">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  &nbsp;
+  <a href="[https://instagram.com/YourInstagramUsername](https://www.instagram.com/abolfazl_shadrouh)" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=292D3E" alt="Instagram"/>
   </a>
-  <a href="http://www.shadrouh.ir">
-    <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  &nbsp;
+  <a href="http://www.shadrouh.ir" target="_blank">
+    <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=292D3E" alt="Website"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=400&color=00FFFF&width=200&lines=%E2%AC%86+Click+Here" />
+</p>
+
+
+---
+
+## ⚡ Fun Fact
+<p align="center">
+✨ “I usually choose the hardest path… because that’s where the growth happens.”  
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="500"/>
 </p>
