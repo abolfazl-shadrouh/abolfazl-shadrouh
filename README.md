@@ -121,21 +121,12 @@ Take control of your spaceship and battle relentless waves of enemies in this fa
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abolfazl-shadrouh&theme=tokyonight&row=1&column=4" width="48%" />
-</p>
-
-<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=abolfazl-shadrouh&theme=tokyonight&row=1&column=4" width="48%" />
   
   ![Top Langs](https://github-readme-stats-clone-sigma.vercel.app/api/top-langs/?username=SVENTRIPIKAL&layout=compact&theme=radical&card_width=310&cache_seconds=3600&exclude_repo=github-readme-stats-clone,github-readme-streak-stats-clone&custom_title=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most&nbsp;Used&nbsp;Languages)  
   
-</p>
-
-<p align="center">
-  
   ![GitHub Stats](https://github-readme-stats-clone-sigma.vercel.app/api?username=SVENTRIPIKAL&hide=contribs,prs&show_icons=true&theme=radical&card_width=495&cache_seconds=3600&custom_title=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Github&nbsp;Stats)
-  
-</p>
+
 
 ---
 
