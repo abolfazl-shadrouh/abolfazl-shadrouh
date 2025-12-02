@@ -121,12 +121,6 @@ Take control of your spaceship and battle relentless waves of enemies in this fa
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abolfazl-shadrouh&show_icons=true&theme=tokyonight" alt="stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abolfazl-shadrouh&layout=compact&theme=tokyonight" alt="langs" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abolfazl-shadrouh&theme=tokyonight&hide_border=true" alt="streak" width="48%" />
   <img src="https://github-profile-trophy.vercel.app/?username=abolfazl-shadrouh&theme=tokyonight&row=1&column=4" width="48%" />
 </p>
 
