@@ -120,7 +120,7 @@ Take control of your spaceship and battle relentless waves of enemies in this fa
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
+<p>
   <img src="https://github-profile-trophy.vercel.app/?username=abolfazl-shadrouh&theme=tokyonight&row=1&column=4" width="48%" />
   
   ![Top Langs](https://github-readme-stats-clone-sigma.vercel.app/api/top-langs/?username=SVENTRIPIKAL&layout=compact&theme=radical&card_width=310&cache_seconds=3600&exclude_repo=github-readme-stats-clone,github-readme-streak-stats-clone&custom_title=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most&nbsp;Used&nbsp;Languages)  
