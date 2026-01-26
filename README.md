@@ -14,7 +14,7 @@ prioritize user needs and deliver solutions that are not only visually appealing
 fast, and scalable. My goal is to build websites that not only work flawlessly but also feel great to use.
 If you're interested in collaboration, consulting, or project inquiries, feel free to reach out.
 
---
+---
 
 - 👨‍💻 18 years old, passionate about **Web Development & AI**  
 - 🎯 Skilled in both **Front-End & Back-End**  
@@ -22,7 +22,6 @@ If you're interested in collaboration, consulting, or project inquiries, feel fr
 - 🌍 Based in **Rasht, Iran**  
 - ✨ Always eager to learn new technologies and take on challenges
 
----
 
 ## 💻 Languages
 
