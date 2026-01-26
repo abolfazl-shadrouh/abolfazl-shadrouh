@@ -29,7 +29,12 @@ If you're interested in collaboration, consulting, or project inquiries, feel fr
 - 🎨 Front-End Developer Professional Certificate – Meta
 - 🛠 Back-End Development – edX
 - 🤖 Artificial Intelligence – HP
-- 💻 Web Design & Development – YDVI
+- 🐍 Google IT Automation with Python  
+- 📊 Google Data Analytics / Advanced Data  
+- ☁️ Microsoft Web Developer / Azure Developer  
+- 🛠 IBM Full-Stack Developer  
+- 🤖 HP AI / Data Science
+- 🛠 IBM Full-Stack Developer  
 - 📚 Self-taught through real-world projects & freelancing
 
 ## 💻 Languages
