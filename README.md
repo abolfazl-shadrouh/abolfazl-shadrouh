@@ -16,11 +16,24 @@ If you're interested in collaboration, consulting, or project inquiries, feel fr
 
 ---
 
-- 👨‍💻 18 years old, passionate about **Web Development & AI**  
-- 🎯 Skilled in both **Front-End & Back-End**  
-- 📚 Certificates: **Front-End Developer (Meta)** & **AI (HP)**  
-- 🌍 Based in **Rasht, Iran**  
-- ✨ Always eager to learn new technologies and take on challenges
+# 🚀 About Me
+
+## ⚡ What I Do
+- Build modern & fast websites
+- Develop Front-End & Back-End systems
+- Create online stores & real-world projects
+- Explore AI & automation
+
+## 🏅 Certifications
+🎓 CS50x – Harvard  
+🎨 Meta Front-End Developer  
+🛠 Back-End Development  
+🤖 HP Artificial Intelligence  
+📜 YDVI
+
+🌱 Lifelong learner | Problem solver | Tech enthusiast  
+📍 Rasht, Iran
+
 
 
 ## 💻 Languages
