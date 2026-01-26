@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abolfazl Shadrouh | ابوالفضل شادروح</h1>
 <h3 align="center">💻 Full-Stack Developer | 🎨 Creative Designer | 🤖 AI Enthusiast</h3>
 
----
-
 ## 🚀 About Me
 
 a web developer and programmer specializing in modern, optimized website design and development. I started
