@@ -4,7 +4,8 @@
 ---
 
 ## 🚀 About Me
-- a web developer and programmer specializing in modern, optimized website design and development. I started
+
+a web developer and programmer specializing in modern, optimized website design and development. I started
 my journey in programming in 2022, driven by a strong passion for learning and creating engaging user
 experiences. My main expertise lies in front-end development using technologies such as HTML, CSS,
 JavaScript, and frameworks like React.js. I also have experience with back-end development, particularly
@@ -12,7 +13,9 @@ with languages ​​like PHP or Node.js and databases such as MySQL and MongoDB
 prioritize user needs and deliver solutions that are not only visually appealing but also technically solid,
 fast, and scalable. My goal is to build websites that not only work flawlessly but also feel great to use.
 If you're interested in collaboration, consulting, or project inquiries, feel free to reach out.
+
 --
+
 - 👨‍💻 18 years old, passionate about **Web Development & AI**  
 - 🎯 Skilled in both **Front-End & Back-End**  
 - 📚 Certificates: **Front-End Developer (Meta)** & **AI (HP)**  
