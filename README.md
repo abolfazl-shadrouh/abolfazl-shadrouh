@@ -9,7 +9,7 @@
 - 📚 Certificates: **Front-End Developer (Meta)** & **AI (HP)**  
 - 🌍 Based in **Rasht, Iran**  
 - ✨ Always eager to learn new technologies and take on challenges
-a web developer and programmer specializing in modern, optimized website design and development. I started
+- a web developer and programmer specializing in modern, optimized website design and development. I started
 my journey in programming in 2022, driven by a strong passion for learning and creating engaging user
 experiences. My main expertise lies in front-end development using technologies such as HTML, CSS,
 JavaScript, and frameworks like React.js. I also have experience with back-end development, particularly
