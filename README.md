@@ -13,6 +13,8 @@ with languages ​​like PHP or Node.js and databases such as MySQL and MongoDB
 prioritize user needs and deliver solutions that are not only visually appealing but also technically solid,
 fast, and scalable. My goal is to build websites that not only work flawlessly but also feel great to use.
 If you're interested in collaboration, consulting, or project inquiries, feel free to reach out.
+🌱 Lifelong learner | Problem solver | Tech enthusiast  
+📍 Rasht, Iran
 
 ---
 
@@ -25,16 +27,12 @@ If you're interested in collaboration, consulting, or project inquiries, feel fr
 - Explore AI & automation
 
 ## 🏅 Certifications
-🎓 CS50x – Harvard  
-🎨 Meta Front-End Developer  
-🛠 Back-End Development  
-🤖 HP Artificial Intelligence  
-📜 YDVI
-
-🌱 Lifelong learner | Problem solver | Tech enthusiast  
-📍 Rasht, Iran
-
-
+- 🎓 CS50x – Harvard University (Computer Science)
+- 🎨 Front-End Developer Professional Certificate – Meta
+- 🛠 Back-End Development – edX
+- 🤖 Artificial Intelligence – HP
+- 💻 Web Design & Development – YDVI
+- 📚 Self-taught through real-world projects & freelancing
 
 ## 💻 Languages
 
