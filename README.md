@@ -19,30 +19,30 @@ If you're interested in collaboration, consulting, or project inquiries, feel fr
 📍 Rasht, Iran
 
 ## ⚡ What I Do
-- 💻 Build modern, responsive, and high-performance websites  
-- 🎨 Craft clean & engaging UI/UX experiences for web apps  
-- 🛠 Develop robust Front-End & scalable Back-End systems  
-- 🛒 Create complete online stores and e-commerce platforms  
-- 🌐 Build real-world web projects for businesses and clients  
-- 🤖 Explore AI-driven features, automation, and smart solutions  
-- ⚡ Optimize website performance, accessibility, and SEO  
-- 🔗 Integrate APIs, databases, and cloud services for full-stack apps  
-- 🚀 Continuously experiment with new web technologies & frameworks  
-- 📈 Implement analytics, monitoring, and data-driven improvements
+-  Build modern, responsive, and high-performance websites  
+-  Craft clean & engaging UI/UX experiences for web apps  
+-  Develop robust Front-End & scalable Back-End systems  
+-  Create complete online stores and e-commerce platforms  
+-  Build real-world web projects for businesses and clients  
+-  Explore AI-driven features, automation, and smart solutions  
+-  Optimize website performance, accessibility, and SEO  
+-  Integrate APIs, databases, and cloud services for full-stack apps  
+-  Continuously experiment with new web technologies & frameworks  
+-  Implement analytics, monitoring, and data-driven improvements
 
 
 ## 🏅 Certifications
-- 🎓 CS50x – Harvard University (Computer Science)
-- 🎨 Front-End Developer Professional Certificate – Meta
-- 🛠 Back-End Development – edX
-- 🤖 Artificial Intelligence – HP
-- 🐍 Google IT Automation with Python  
-- 📊 Google Data Analytics / Advanced Data  
-- ☁️ Microsoft Web Developer / Azure Developer  
-- 🛠 IBM Full-Stack Developer  
-- 🤖 HP AI / Data Science
-- 🛠 IBM Full-Stack Developer  
-- 📚 Self-taught through real-world projects & freelancing
+-  CS50x – Harvard University (Computer Science)
+-  Front-End Developer Professional Certificate – Meta
+-  Back-End Development – edX
+-  Artificial Intelligence – HP
+-  Google IT Automation with Python  
+-  Google Data Analytics / Advanced Data  
+-  Microsoft Web Developer / Azure Developer  
+-  IBM Full-Stack Developer  
+-  HP AI / Data Science
+-  IBM Full-Stack Developer  
+-  Self-taught through real-world projects & freelancing
 
 ## 💻 Languages
 
