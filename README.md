@@ -18,8 +18,6 @@ If you're interested in collaboration, consulting, or project inquiries, feel fr
 
 📍 Rasht, Iran
 
----
-
 ## ⚡ What I Do
 - Build modern & fast websites
 - Develop Front-End & Back-End systems
