@@ -5,16 +5,25 @@
 
 ## 🚀 About Me
 
-a web developer and programmer specializing in modern, optimized website design and development. I started
-my journey in programming in 2022, driven by a strong passion for learning and creating engaging user
-experiences. My main expertise lies in front-end development using technologies such as HTML, CSS,
-JavaScript, and frameworks like React.js. I also have experience with back-end development, particularly
-with languages ​​like PHP or Node.js and databases such as MySQL and MongoDB. In every project, I strive to
-prioritize user needs and deliver solutions that are not only visually appealing but also technically solid,
-fast, and scalable. My goal is to build websites that not only work flawlessly but also feel great to use.
-If you're interested in collaboration, consulting, or project inquiries, feel free to reach out.
+I am a full-stack web developer specializing in modern, high-performance, and scalable web applications. I began my programming journey in 2022, driven by a deep passion for technology, continuous learning, and building impactful digital experiences.
 
-🌱 Lifelong learner | Problem solver | Tech enthusiast  
+Front-End Development
+I have strong expertise in front-end development, with a deep understanding of HTML5, CSS3, and modern JavaScript (ES6+). I build responsive, accessible, and pixel-perfect user interfaces using best practices and clean architecture principles.
+
+I am highly proficient in React.js and experienced in building dynamic, component-based applications with optimized performance. My front-end workflow includes state management, API integration, reusable component design, performance optimization, and responsive design across devices. I focus on writing maintainable, scalable code while ensuring seamless user experience and smooth interactions.
+
+Back-End Development
+On the back-end, I have solid experience developing secure and efficient server-side applications using Node.js and PHP. I am comfortable designing RESTful APIs, handling authentication and authorization, managing server logic, and implementing secure data handling practices.
+
+I work with relational and non-relational databases such as MySQL and MongoDB, designing optimized schemas, writing efficient queries, and ensuring data integrity and scalability. I understand application architecture, MVC patterns, and how to structure full-stack projects for long-term maintainability.
+
+In every project I undertake, I prioritize user needs and business goals, delivering solutions that are not only visually appealing but also technically robust, secure, fast, and scalable. I believe exceptional websites should not only function flawlessly but also provide an intuitive and enjoyable user experience.
+
+I am constantly exploring new tools, frameworks, and best practices to stay ahead in the fast-evolving tech landscape.
+
+If you are interested in collaboration, consulting, or discussing a project, feel free to reach out — I would be glad to connect.
+
+🌱 Lifelong Learner | Full-Stack Developer | Problem Solver | Tech Enthusiast
 
 📍 Rasht, Iran
 
