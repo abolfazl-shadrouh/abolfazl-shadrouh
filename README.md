@@ -52,7 +52,6 @@ If you are interested in collaboration, consulting, or discussing a project, fee
 -  Microsoft Web Developer / Azure Developer  
 -  IBM Full-Stack Developer  
 -  HP AI / Data Science
--  IBM Full-Stack Developer  
 -  Self-taught through real-world projects & freelancing
 
 ## 💻 Languages
