@@ -7,12 +7,14 @@
 
 I am a full-stack web developer specializing in modern, high-performance, and scalable web applications. I began my programming journey in 2022, driven by a deep passion for technology, continuous learning, and building impactful digital experiences.
 
-Front-End Development
+## Front-End Development
+
 I have strong expertise in front-end development, with a deep understanding of HTML5, CSS3, and modern JavaScript (ES6+). I build responsive, accessible, and pixel-perfect user interfaces using best practices and clean architecture principles.
 
 I am highly proficient in React.js and experienced in building dynamic, component-based applications with optimized performance. My front-end workflow includes state management, API integration, reusable component design, performance optimization, and responsive design across devices. I focus on writing maintainable, scalable code while ensuring seamless user experience and smooth interactions.
 
-Back-End Development
+## Back-End Development
+
 On the back-end, I have solid experience developing secure and efficient server-side applications using Node.js and PHP. I am comfortable designing RESTful APIs, handling authentication and authorization, managing server logic, and implementing secure data handling practices.
 
 I work with relational and non-relational databases such as MySQL and MongoDB, designing optimized schemas, writing efficient queries, and ensuring data integrity and scalability. I understand application architecture, MVC patterns, and how to structure full-stack projects for long-term maintainability.
