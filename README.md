@@ -139,6 +139,11 @@ If you are interested in collaboration, consulting, or discussing a project, fee
 
 ## 📂 Featured Projects
 
+### 🌐 FentaTech News Agency
+📡 A technology-focused news agency providing premium coverage of tech industry developments.
+
+🔗 [View Website](https://www.fentatech.ir)
+
 ### 🌿 Green Leaf
 🌱 Welcome to Green Leaf, where you can find a wide variety of indoor plants, decorative flowers, and plant care accessories. Bring nature into your home and enjoy a fresh, green, and calming space.💚
 
