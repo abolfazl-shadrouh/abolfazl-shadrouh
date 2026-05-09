@@ -164,6 +164,10 @@ Take control of your spaceship and battle relentless waves of enemies in this fa
 
 🔗 [View Repository](https://github.com/abolfazl-shadrouh/Space-Shooter)
 
+### 📺 Vidad advertising agency
+Vidad is a specialized reference for content production and digital marketing training that helps you learn up-to-date and practical social media development and management skills. At Vidad, training is simple, practical, and tailored to the real needs of the market.
+
+🔗 [View Repository](https://www.vidadco.ir)
 ---
 
 ## 🌐 Connect With Me
