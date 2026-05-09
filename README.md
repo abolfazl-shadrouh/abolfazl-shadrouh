@@ -154,6 +154,11 @@ If you are interested in collaboration, consulting, or discussing a project, fee
 
 🔗 [View Repository](https://github.com/abolfazl-shadrouh/cafe-menu)
 
+### 📺 Vidad advertising agency
+Vidad is a specialized reference for content production and digital marketing training that helps you learn up-to-date and practical social media development and management skills. At Vidad, training is simple, practical, and tailored to the real needs of the market.
+
+🔗 [View Website](https://www.vidadco.ir)
+
 ### 🐍 ClassicSnake
 Navigate your snake, collect food 🍎, and avoid crashing! Built with HTML, CSS, and JavaScript 🎮. Enjoy retro arcade fun directly in your browser! 🕹️
 
@@ -163,11 +168,6 @@ Navigate your snake, collect food 🍎, and avoid crashing! Built with HTML, CSS
 Take control of your spaceship and battle relentless waves of enemies in this fast-paced, action-packed space shooter! Dodge, shoot, and survive to achieve the highest score in the galaxy.
 
 🔗 [View Repository](https://github.com/abolfazl-shadrouh/Space-Shooter)
-
-### 📺 Vidad advertising agency
-Vidad is a specialized reference for content production and digital marketing training that helps you learn up-to-date and practical social media development and management skills. At Vidad, training is simple, practical, and tailored to the real needs of the market.
-
-🔗 [View Repository](https://www.vidadco.ir)
 
 ---
 
