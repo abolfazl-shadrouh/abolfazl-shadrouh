@@ -2,8 +2,6 @@
 <h3 align="center">💻 Full-Stack Developer | 🎨 Creative Designer | 🤖 AI Enthusiast</h3>
 <div align="center">
   <a href="https://git.io/typing-svg"></a>
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-  <br/>
   </div>
   
 ---
