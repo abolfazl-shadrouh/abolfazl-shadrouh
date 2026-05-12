@@ -118,13 +118,7 @@ If you are interested in collaboration, consulting, or discussing a project, fee
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" alt="VS Code"/>
 </p>
 
-
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300"/>
-</p>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7AB0A&width=300&lines=I'm+Abolfazl+Shadrouh;Full-Stack+Developer+%26+AI+Enthusiast" />
