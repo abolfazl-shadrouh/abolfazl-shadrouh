@@ -132,6 +132,11 @@ If you are interested in collaboration, consulting, or discussing a project, fee
 
 🔗 [View Website](https://www.fentatech.ir)
 
+### 🛒 Technonegar
+⚙ A store website in the field of electronics and digital goods using WordPress CMS.
+
+🔗 [View Website](https://www.technonegar.ir)
+
 ### 🌿 Green Leaf
 🌱 Welcome to Green Leaf, where you can find a wide variety of indoor plants, decorative flowers, and plant care accessories. Bring nature into your home and enjoy a fresh, green, and calming space.💚
 
