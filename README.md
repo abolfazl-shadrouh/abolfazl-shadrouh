@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abolfazl Shadrouh</h1>
-<h3 align="center">💻 Full-Stack Developer | 🎨 Creative Designer | 🤖 AI Enthusiast</h3>
+<h3 align="center">💻 Full-Stack Web Developer | 🎨 Creative Designer | 📊 Trader</h3>
   
 ---
 
