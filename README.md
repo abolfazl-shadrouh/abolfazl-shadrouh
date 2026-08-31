@@ -120,11 +120,6 @@ If you are interested in collaboration, consulting, or discussing a project, fee
 
 ---
 
-### 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abolfazl-shadrouh&theme=react-dark)
-
----
-
 ## 📂 Featured Projects
 
 ### 🌐 FentaTech News Agency
